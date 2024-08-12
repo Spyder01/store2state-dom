@@ -1,6 +1,6 @@
 {
   "name": "store2state-dom",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An extension of the `store2state` library that provides a straightforward way to bind application state changes to DOM elements in vanilla JavaScript",
   "main": "index.js",
   "scripts": {
