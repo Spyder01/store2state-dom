@@ -7,9 +7,13 @@
     "build": "tsc",
     "test": "echo \"no test specified\""
   },
-  "keywords": [],
+  "keywords": ["store2state", "state-management", "dom", "dom-update"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Spyder01/store2state-dom.git"
+  },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "typescript": "^5.5.4"
   },
